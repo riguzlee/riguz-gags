@@ -1,4 +1,9 @@
 *.class
+target
+*.properties
+*.log
+*.project
+*.classpath
 
 # Package Files #
 *.jar
